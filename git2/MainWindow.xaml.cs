@@ -24,5 +24,10 @@ namespace git2
 		{
 			InitializeComponent();
 		}
+
+		private void button_Click(object sender, RoutedEventArgs e)
+		{
+			listBox.Items.Add("hallo");
+		}
 	}
 }
