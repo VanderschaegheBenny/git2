@@ -28,6 +28,7 @@ namespace git2
 		private void button_Click(object sender, RoutedEventArgs e)
 		{
 			listBox.Items.Add("hallo");
+			listBox.Items.Add("hello");
 		}
 	}
 }
