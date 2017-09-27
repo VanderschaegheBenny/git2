@@ -29,6 +29,7 @@ namespace git2
 		{
 			listBox.Items.Add("hallo");
 			listBox.Items.Add("hello");
+			listBox.Items.Add("bonjour");
 		}
 	}
 }
